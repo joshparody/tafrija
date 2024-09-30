@@ -170,7 +170,8 @@ form {
     box-shadow: 0 2px 10px rgba(0, 0, 0, 0.3);
     width: 80%; /* Adjust width as needed */
     max-width: 500px; /* Limit maximum width */
-    margin: 20px auto; /* Center the form */
+    margin: 20px auto;
+    color: black;/* Center the form */
 }
 
 label {
