@@ -171,13 +171,14 @@ form {
     width: 80%; /* Adjust width as needed */
     max-width: 500px; /* Limit maximum width */
     margin: 20px auto;
-    color: black;/* Center the form */
+  /* Center the form */
 }
 
 label {
     display: block;
     margin-bottom: 5px;
     font-weight: bold;
+      color: black;
 }
 
 input[type="text"],
